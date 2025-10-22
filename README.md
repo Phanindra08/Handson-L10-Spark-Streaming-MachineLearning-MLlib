@@ -138,6 +138,9 @@ Batch: 5
 +--------------------+--------------------+------------------+---------------------+
 ```
 
+**Obtained Output:**
+[Showing output screenshots](./OutputScreenshots)
+
 ## **Technical Architecture**
 
 ### **Workflow Pipeline:**
